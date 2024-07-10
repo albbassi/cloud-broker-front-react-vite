@@ -3,7 +3,7 @@
 ![image](./imagem_readme.png)
 
 
-Este projeto integra o MVP da disciplina **Desenvolvimento Frontend Avançado**.
+Este projeto integra o MVP da disciplina **Desenvolvimento Frontend Avançado** e seu objetivo principal foi desenvolver um frontend que ofereça funcionalidades para o cadastro simplificado de clientes em um banco de dados SQLite.
 
 O desenvolvimento segue as especificações do protótipo figma disponibilizado neste [link](https://www.figma.com/design/SlqUMW8DEKEKWyWY5MigVb/Prototipa%C3%A7%C3%A3o-MVP-Desenv-Front-end--Avan%C3%A7ado?node-id=10-440).
 
@@ -12,7 +12,6 @@ Com o intuito de exercitar todos os conceitos vistos em aula foram utilizadas ne
 - Vite (https://pt.vitejs.dev/)
 - Mui (https://mui.com/)
 
-O propósito principal deste trabalho é desenvolver um frontend que ofereça funcionalidades para o cadastro simplificado de clientes em um banco de dados SQLite.
 
 # Atenção
 
