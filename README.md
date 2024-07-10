@@ -30,7 +30,7 @@ Como o projeto ainda está em uma fase inicial, não possui um servidor web e ro
 
 - Assim que o servidor de backend estiver ativo, navegue até a pasta onde a aplicação cloud-broker-front-react-vite-main foi clonada.
 
-- Para baixar e instalar as bibliotecas necessárias à execução do frontend, execute o comando:
+- Em seguida já na pasta, execute o comando abaixo para baixar e instalar as bibliotecas necessárias à execução do frontend:
 ```
 npm install 
 ```
