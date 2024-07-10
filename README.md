@@ -1,6 +1,6 @@
 # Frontend Controle de Contratos - MVP
 
-![image](https://github.com/albbassi/cloud-broker-front-react-vite/assets/imagem_readme.png)
+![image](./imagem_readme.png)
 
 
 Este projeto integra o MVP da disciplina **Desenvolvimento Frontend Avançado**.
