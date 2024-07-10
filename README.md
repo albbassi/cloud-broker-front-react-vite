@@ -28,9 +28,7 @@ Como o projeto ainda está em uma fase inicial, não possui um servidor web e ro
 
 - Inicialize a aplicação de backend que tem seu passo a passo descrito [aqui](https://github.com/albbassi/cloud-broker-api).
 
-- Assim que o servidor de backend estiver ativo, navegue até a pasta onde a aplicação cloud-broker-front-react-vite-main foi clonada.
-
-- Em seguida já na pasta, execute o comando abaixo para baixar e instalar as bibliotecas necessárias à execução do frontend:
+- Assim que o servidor de backend estiver ativo, navegue até a pasta onde a aplicação cloud-broker-front-react-vite-main foi clonada e execute o comando abaixo que vai instalar as bibliotecas necessárias à execução do frontend:
 ```
 npm install 
 ```
