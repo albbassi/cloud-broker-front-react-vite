@@ -37,10 +37,14 @@ npm install
 ```
 
 - Após o término da instalação execute o comando:
-```npm run dev```
+```
+npm run dev
+```
 
 - Para interagir com a aplicação, acesse a url:
-  ```http://localhost:5173/```
+```
+http://localhost:5173/
+```
 
 
 **Divirta-se!**
