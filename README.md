@@ -8,9 +8,9 @@ Este projeto integra o MVP da disciplina **Desenvolvimento Frontend Avançado**.
 O desenvolvimento segue as especificações do protótipo figma disponibilizado neste [link](https://www.figma.com/design/SlqUMW8DEKEKWyWY5MigVb/Prototipa%C3%A7%C3%A3o-MVP-Desenv-Front-end--Avan%C3%A7ado?node-id=10-440).
 
 Com o intuito de exercitar todos os conceitos vistos em aula foram utilizadas neste projeto as seguintes tecnologias:
-    -- React (https://react.dev/)
-    -- Vite (https://pt.vitejs.dev/)
-    -- Mui (https://mui.com/)
+- React (https://react.dev/)
+- Vite (https://pt.vitejs.dev/)
+- Mui (https://mui.com/)
 
 O propósito principal deste trabalho é desenvolver um frontend que ofereça funcionalidades para o cadastro simplificado de clientes em um banco de dados SQLite.
 
