@@ -1,5 +1,8 @@
 # Frontend Controle de Contratos - MVP
 
+![image](https://github.com/albbassi/cloud-broker-front-react-vite/assets/11400477/52e34a60-2739-499b-954c-2054af8609d4)
+
+
 Este projeto integra o MVP da disciplina **Desenvolvimento Frontend Avançado**.
 
 O desenvolvimento segue as especificações do protótipo figma disponibilizado neste [link](https://www.figma.com/design/SlqUMW8DEKEKWyWY5MigVb/Prototipa%C3%A7%C3%A3o-MVP-Desenv-Front-end--Avan%C3%A7ado?node-id=10-440).
